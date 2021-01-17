@@ -48,7 +48,7 @@
                 android:defaultValue="false" />
 
         <lineageos.preference.SecureSettingSwitchPreference
-                android:key="sysui_nav_bar_inverse"
+                android:key="navbar_inverse_layout"
                 android:title="@string/navigation_bar_invert_layout_title"
                 android:summary="@string/navigation_bar_invert_layout_summary"
                 android:defaultValue="false" />
